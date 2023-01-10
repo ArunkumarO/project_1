@@ -153,63 +153,61 @@ padding: 20px 30px;
     font-weight: 600;
 }
 .service-container{
-    position: absolute;
-    height: auto;
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    justify-content: center;
-    margin-bottom: 25px;
-   
+    float: left;
+    
 }
 .serv{
     height: 100px;
-    padding-left: 400px;
+margin: 200px;
+margin-top: -40px;
+}
+.h3s{
+    text-align: center;
+    justify-content: center;
+    margin-top: -170px;
+    color: #ff702a;
 
 }
-.serv2{
-    height: 100px;
-    padding-left: 200px;
+.ps{
+    text-align: center;
+    justify-content: center;
+    font-weight: bolder;
+    margin-top: -10px;
+    color: white;
 
 }
-.serv3{
-    height: 100px;
-    padding-right: 100px;
-
+.mainn{
+    margin-left: 200px;
 }
-.order{
-    padding-left: 425px;
-    font-size: medium;
+.mainn2{
+    margin-left: 500px;
+    margin-top: -154px;
+}
+.mainn3{
+    margin-left: 900px;
+    margin-top: -154px;
+}
+.mainn4{
+    margin-left:1200px;
+    margin-top: -154px;
+}
+.footer{
+    margin-top: 350px;
     color: #ff702a;
 }
-    .deli{
-        padding-left: 25px;
-        font-size: medium;
-        color: #ff702a;
-    }
-.ship{
-    padding-left: 225px;
-    font-size: medium;
-    color: #ff702a;
-    
-}
-.s-box p{
-    text-align: justify;
-    text-align: center;
-    margin: 4px 0 10px;
-    padding-left: 200px;
-    margin-left: 150px;
-}
-.p2{
-    text-align: justify;
-    text-align: center;
-    margin: 4px 0 10px;
-    padding-left: 200px;
-    margin-left: -300px;
-    
-}
 
-
+#insta{
+    color: rgb(202, 24, 218);
+}
+#what{
+    color: rgb(6, 200, 61);
+}
+#fac{
+    color: rgb(17, 13, 238);
+}
+#twt{
+    color: rgba(40, 195, 238, 0.971);
+}
 
 
 
