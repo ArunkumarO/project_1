@@ -178,18 +178,20 @@ margin-top: -40px;
 }
 .mainn{
     margin-left: 200px;
+    margin-top: -150px;
+
 }
 .mainn2{
     margin-left: 500px;
-    margin-top: -154px;
+    margin-top: -150px;
 }
 .mainn3{
     margin-left: 900px;
-    margin-top: -154px;
+    margin-top: -150px;
 }
 .mainn4{
     margin-left:1200px;
-    margin-top: -154px;
+    margin-top: -130px;
 }
 .footer{
     margin-top: 350px;
@@ -207,6 +209,11 @@ margin-top: -40px;
 }
 #twt{
     color: rgba(40, 195, 238, 0.971);
+}
+footer{
+ background-color: #211c3a;
+    
+margin-top: 500px;
 }
 
 
